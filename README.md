@@ -16,7 +16,7 @@
 
 - 🎓 Software Engineer
 - 📚 Master's student in Computer Science with empashsi on Advanced Software Engineering
-- 🧑🏻‍💻 Working at **Armirene**
+- 🧑🏻‍💻 Working at **Mercado Libre**
 - 📫 **dmurcia.cespedes@gmail.com**
 
 <br/>
